@@ -1,3 +1,7 @@
+# Info
+*Sample Chat with Firebase & React*
+Demo [https://show-chat-8bd23.web.app/chat](https://show-chat-8bd23.web.app/chat)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
