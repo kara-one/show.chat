@@ -12,14 +12,14 @@ import reportWebVitals from './reportWebVitals';
 export const Context = createContext(null);
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDZPnzNQAs-80ZVaunNIhCkwsfzqPHJ4J8',
-  authDomain: 'kakmy-7fe1e.firebaseapp.com',
+  apiKey: 'AIzaSyBEB8Pd50SWYWwsQuD1nBeG_Kiar2qzef8',
+  authDomain: 'show-chat-8bd23.firebaseapp.com',
   databaseURL:
-    'https://kakmy-7fe1e-default-rtdb.europe-west1.firebasedatabase.app',
-  projectId: 'kakmy-7fe1e',
-  storageBucket: 'kakmy-7fe1e.appspot.com',
-  messagingSenderId: '386251112229',
-  appId: '1:386251112229:web:6402f60051cf448adb24cc',
+    'https://show-chat-8bd23-default-rtdb.europe-west1.firebasedatabase.app',
+  projectId: 'show-chat-8bd23',
+  storageBucket: 'show-chat-8bd23.appspot.com',
+  messagingSenderId: '629217271187',
+  appId: '1:629217271187:web:89f93ee0b99aef8c99dc66',
 };
 const firebase = initializeApp(firebaseConfig);
 const auth = getAuth(firebase);
